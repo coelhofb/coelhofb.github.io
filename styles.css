@@ -1,0 +1,61 @@
+/* Add your styles here */
+h1 {
+    color: aqua
+}
+
+.img_plot {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    text-align: center;
+
+}
+.img_plot > p {
+    margin-bottom: 0px;
+    font-size: 10px;
+
+}
+.left_side {
+
+    margin-left: 40px;
+    margin-right: 40px;
+    max-width: 650px;
+    height: 450px;
+    background-color: white;
+    padding: 20px;
+ 
+}
+
+.left_side > h2 {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom:10px
+}
+
+.right_side {
+    height: 450px;
+
+    background-color: white;
+    padding: 20px;
+}
+
+.right_side > h3 {
+    position: relative;
+    margin-top: 0px;
+    margin-bottom:10px
+}
+
+.comparison {
+
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    height: 500x;
+    background-color: white;
+    padding: 20px;
+}
+
+body {
+    background-color: aliceblue
+}
